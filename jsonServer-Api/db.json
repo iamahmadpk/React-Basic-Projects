@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "515e3c1f-eb04-4b7c-8701-89d0eaa7b99e",
+      "name": "Rana ALi",
+      "email": "iamahmadpk444@gmail.com"
+    },
+    {
+      "id": "c9af58fb-ef8d-49ac-a378-34fdbf760178",
+      "name": "testuser",
+      "email": "test@gmail.com"
+    }
+  ]
+}
